@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import axios from "axios";
-import Search from "./components/Search";
-import Results from "./components/Results";
-import Detail from "./components/Detail";
+import Search from "./Search";
+import Results from "./Results";
+import Detail from "./Detail";
 import "./App.css";
 
 function App() {
